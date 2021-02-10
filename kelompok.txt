@@ -1,0 +1,5 @@
+DATA DIRI KELOMPOK
+
+Nama    : Abdul Latip Muhyi
+Kelas   : IFC 19
+NPM     : 5520119076
